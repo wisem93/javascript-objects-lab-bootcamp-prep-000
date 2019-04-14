@@ -1,5 +1,5 @@
 var recipes = {
-  cereal: 'milk and cereal', 
-  soup: 'chicken broth and chicken', 
+  cereal: ["milk", "cherrios"], 
+  soup: ["chicken", "chicken broth"], 
   frenchToast: ["bread", "butter", "eggs"]
 }
