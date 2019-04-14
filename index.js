@@ -1,4 +1,4 @@
 var recipes = {
-  cereal: 'milk', 
-  cake: 'butter', 
+  cereal: 'milk and cereal', 
+  soup: 'chicken broth and chicken', 
 }
